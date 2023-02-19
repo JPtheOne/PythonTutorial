@@ -49,7 +49,7 @@ Las listas poseen la ventaja de ser altamente manipulables a a través de métod
 
 ## Diccionarios 
 Los diccionarios en Python nos permiten almacenar una serie de mapeos entre dos conjuntos de elementos, llamados keys and values (Claves y Valores).
-De igual forma, posee ciertas características:
+De igual forma, posee ciertas características.
 
 1.Todos los elementos en el diccionario se encuentran encerrados en un par de corchetes {}.
 2.Cada elemento en un diccionario contiene una clave y un valor - es decir un par de clave-valor.

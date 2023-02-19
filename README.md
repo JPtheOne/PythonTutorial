@@ -23,7 +23,18 @@ onequote = 'Hi!'
 everyDataList = [33, "Hello world", 1.618]
 untouchable = ("Hi", 44, 22.324)
 ```
+## Listas
+Una lista en Python es un tipo de datos nativos construido dentro del lenguaje de programación Python. Estas listas son similares a matrices (o arrays) que se encuentran en otros lenguajes. Sin embargo, en Python se manejan como variables con muchos elementos. Las listas tienen las siguientes características principales:
+Ordenada: esto quiere decir que los elementos dentro de ella están indexados y se accede a ellos a través de una locación indexada. 
+
+2. Editable: los elementos dentro de una lista pueden editarse, añadir nuevos o eliminar los que ya tiene. 
+
+3. Dinámica: las listas pueden contener diferentes tipos de datos y hasta de objetos. Esto significa que pueden soportar paquetes multidimensionales de datos, como un array o muchos objetos. 
+
+4. No única: esencialmente, esto quiere decir que la lista puede contener elementos duplicados sin que arroje un error. 
+
 
 ## Bibliografía
+Londoño, P. (2023, 13 febrero). *Listas en Python: qué son, cómo crearlas y ordenarlas.* https://blog.hubspot.es/website/lista-python
 
 P. (2022, 3 agosto). *ython Data Types (With Complete List).* igitalOcean Community. https://www.digitalocean.com/community/tutorials/python-data-types

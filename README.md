@@ -34,6 +34,19 @@ Una lista en Python es un tipo de datos nativos construido dentro del lenguaje d
 
 4. No única: esencialmente, esto quiere decir que la lista puede contener elementos duplicados sin que arroje un error. 
 
+Las listas poseen la ventaja de ser altamente manipulables a a través de métodos ya integrados en Python. A continuación se ofrece una lista de los métodos más comunes junto con su descripción.
+1. append(): Agrega un elemento al final de la lista
+2. clear(): Elimina todos los elementos de la lista
+3. copy(): Devuelve una copia de la lsita
+4. count(): Devuelve el número de elementos del valro que se dio como argumento.
+5. extend(): Agrega los elementos de la lista (o de cualquier iterable) al final del a lista actual.
+6. index(): Devuelve el índice del primer elemento con el valor específicado
+7. insert(): Agrega un elemento en la posición dada
+8. pop(): Quita el elemento de la posición dada
+9. remove(): quita el elemento con el valor dado
+10. reverse(): invierte el orden de la lista
+11. sort(): ordena la lista
+
 
 ## Bibliografía
 Londoño, P. (2023, 13 febrero). *Listas en Python: qué son, cómo crearlas y ordenarlas.* https://blog.hubspot.es/website/lista-python
